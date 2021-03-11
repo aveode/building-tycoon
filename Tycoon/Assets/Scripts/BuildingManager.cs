@@ -18,12 +18,12 @@ public class BuildingManager : MonoBehaviour
 	private void Update()
 	{	
 		
-		if(Input.GetKeyDown(KeyCode.T))
+		if(Input.GetKeyDown(KeyCode.Alpha1))
 		{
 			currentType = buildingTypes[0];
 		}
 
-		if (Input.GetKeyDown(KeyCode.Y))
+		if (Input.GetKeyDown(KeyCode.Alpha2))
 		{
 			currentType = buildingTypes[1];
 		}
