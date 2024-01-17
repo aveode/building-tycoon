@@ -1,3 +1,3 @@
 # Building tycoon pohja
 
-> Tycoon tyylinen peli projekti jonka aloitin joskus 2021 alkuvuodesta mutta loppui motivaatio jo alkuvaiheille. Laitoin tämän julkiseksi jos joku haluaa tästä jatkaa tai ihmetellä paskaa c sharppia.
+> Tycoon tyylinen peli projekti joka löytyi kovalevyltä. Laitoin julkiseksi jos joku haluaa tästä jatkaa tai ihmetellä surkeeta c sharppia.
